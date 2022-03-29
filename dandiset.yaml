@@ -28,8 +28,8 @@ assetsSummary:
   variableMeasured:
   - PlaneSegmentation
   - ProcessingModule
-citation: PIERRÉ, Andrea (2022) Odor_Set_1 (Version draft) [Data set]. DANDI archive.
-  https://dandiarchive.org/dandiset/000167/draft
+citation: PIERRÉ, Andrea (2022) Odor_Set_1 (Version 0.220329.0720) [Data set]. DANDI
+  archive. https://doi.org/10.48324/dandi.000167/0.220329.0720
 contributor:
 - affiliation: []
   email: andrea_pierre@brown.edu
@@ -39,24 +39,38 @@ contributor:
   - dcite:ContactPerson
   schemaKey: Person
 dateCreated: '2021-11-10T22:38:18.542708+00:00'
+datePublished: '2022-03-29T07:20:15.234913+00:00'
 description: 'Calcium imaging + behavioral data collected by the Fleischmann lab.
 
   Used this pipeline to convert it to NWB: https://gitlab.com/fleischmann-lab/calcium-imaging/calimag'
+doi: 10.48324/dandi.000167/0.220329.0720
 ethicsApproval: []
-id: DANDI:000167/draft
+id: DANDI:000167/0.220329.0720
 identifier: DANDI:000167
 keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000167/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000167/0.220329.0720/assets.yaml
 name: Odor_Set_1
 protocol: []
+publishedBy:
+  endDate: '2022-03-29T07:20:15.234913+00:00'
+  id: urn:uuid:906d812d-8bed-4c09-880c-096527a4fbfc
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2022-03-29T07:20:15.234913+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:9178b1d5-30d0-4938-862a-c318a9876cba
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.0
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000167/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000167/0.220329.0720
+version: 0.220329.0720
 wasGeneratedBy: []
