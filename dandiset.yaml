@@ -28,9 +28,16 @@ assetsSummary:
   variableMeasured:
   - PlaneSegmentation
   - ProcessingModule
-citation: PIERRÉ, Andrea (2022) Odor_Set_1 (Version draft) [Data set]. DANDI archive.
-  https://dandiarchive.org/dandiset/000167/draft
+citation: Daste, Simon; PIERRÉ, Andrea (2022) Daste odor set 2021-11 (Version draft)
+  [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000167/draft
 contributor:
+- affiliation: []
+  email: simon_daste@brown.edu
+  identifier: 0000-0001-5139-2743
+  includeInCitation: true
+  name: Daste, Simon
+  roleName: []
+  schemaKey: Person
 - affiliation: []
   email: andrea_pierre@brown.edu
   includeInCitation: true
@@ -41,6 +48,8 @@ contributor:
 dateCreated: '2021-11-10T22:38:18.542708+00:00'
 description: 'Calcium imaging + behavioral data collected by the Fleischmann lab.
 
+  Showcase notebook available at: https://gitlab.com/fleischmann-lab/datasets/daste-odor-set-2021-11
+
   Used this pipeline to convert it to NWB: https://gitlab.com/fleischmann-lab/calcium-imaging/calimag'
 ethicsApproval: []
 id: DANDI:000167/draft
@@ -50,7 +59,7 @@ license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000167/versions/draft/assets/
-name: Odor_Set_1
+name: Daste odor set 2021-11
 protocol: []
 relatedResource: []
 repository: https://dandiarchive.org
