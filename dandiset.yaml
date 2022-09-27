@@ -50,8 +50,12 @@ contributor:
   - dcite:ContactPerson
   schemaKey: Person
 dateCreated: '2021-11-10T22:38:18.542708+00:00'
-description: 'Calcium imaging + behavioral data collected by the Fleischmann lab.
-  Showcase notebook available at: https://gitlab.com/fleischmann-lab/datasets/daste-odor-set-2021-11'
+description: 'Two-photon calcium imaging of mouse piriform cortex pyramidal population,
+  under head-fixed condition and passive odor stimulus delivery. There were 10 different
+  odors used (8 trials each), delivered at 10-second for each of the 30-second trial.
+  Temperature sensor was also recorded as a proxy for sniffing behaviors. Imaging
+  was preprocessed with suite2p. The data was collected by Simon Daste in the Fleischmann
+  lab at Brown university. Showcase notebook available at: https://gitlab.com/fleischmann-lab/datasets/daste-odor-set-2021-11'
 ethicsApproval: []
 id: DANDI:000167/draft
 identifier: DANDI:000167
