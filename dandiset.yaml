@@ -28,8 +28,9 @@ assetsSummary:
   variableMeasured:
   - PlaneSegmentation
   - ProcessingModule
-citation: Daste, Simon; Pierré, Andrea (2022) Daste odor set 2021-11 (Version draft)
-  [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000167/draft
+citation: Daste, Simon; Pierré, Andrea (2022) Two photon calcium imaging of mice piriform
+  cortex under passive odor presentation (Version draft) [Data set]. DANDI archive.
+  https://dandiarchive.org/dandiset/000167/draft
 contributor:
 - affiliation: []
   email: simon_daste@brown.edu
@@ -64,7 +65,7 @@ license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000167/versions/draft/assets/
-name: Daste odor set 2021-11
+name: Two photon calcium imaging of mice piriform cortex under passive odor presentation
 protocol: []
 relatedResource: []
 repository: https://dandiarchive.org
