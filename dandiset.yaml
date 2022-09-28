@@ -29,8 +29,8 @@ assetsSummary:
   - PlaneSegmentation
   - ProcessingModule
 citation: Daste, Simon; Pierré, Andrea (2022) Two photon calcium imaging of mice piriform
-  cortex under passive odor presentation (Version draft) [Data set]. DANDI archive.
-  https://dandiarchive.org/dandiset/000167/draft
+  cortex under passive odor presentation (Version 0.220928.1306) [Data set]. DANDI
+  archive. https://doi.org/10.48324/dandi.000167/0.220928.1306
 contributor:
 - affiliation: []
   email: simon_daste@brown.edu
@@ -51,27 +51,41 @@ contributor:
   - dcite:ContactPerson
   schemaKey: Person
 dateCreated: '2021-11-10T22:38:18.542708+00:00'
+datePublished: '2022-09-28T13:06:48.508547+00:00'
 description: 'Two-photon calcium imaging of mouse piriform cortex pyramidal population,
   under head-fixed condition and passive odor stimulus delivery. There were 10 different
   odors used (8 trials each), delivered at 10-second for each of the 30-second trial.
   Temperature sensor was also recorded as a proxy for sniffing behaviors. Imaging
   was preprocessed with suite2p. The data was collected by Simon Daste in the Fleischmann
   lab at Brown university. Showcase notebook available at: https://gitlab.com/fleischmann-lab/datasets/daste-odor-set-2021-11'
+doi: 10.48324/dandi.000167/0.220928.1306
 ethicsApproval: []
-id: DANDI:000167/draft
+id: DANDI:000167/0.220928.1306
 identifier: DANDI:000167
 keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000167/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000167/0.220928.1306/assets.yaml
 name: Two photon calcium imaging of mice piriform cortex under passive odor presentation
 protocol: []
+publishedBy:
+  endDate: '2022-09-28T13:06:48.508547+00:00'
+  id: urn:uuid:15cab67a-24f7-4564-94d2-7e1b74282b59
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2022-09-28T13:06:48.508547+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:733d806a-983c-4957-9a83-7af98f4a25fe
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.0
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000167/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000167/0.220928.1306
+version: 0.220928.1306
 wasGeneratedBy: []
