@@ -35,9 +35,9 @@ assetsSummary:
   - ProcessingModule
   - ImagingPlane
   - OpticalChannel
-citation: Daste, Simon; Pierré, Andrea (2023) Two photon calcium imaging of mice piriform
-  cortex under passive odor presentation (Version draft) [Data set]. DANDI archive.
-  https://dandiarchive.org/dandiset/000167/draft
+citation: Daste, Simon; Pierré, Andrea; Pham, Tuan (2023) Two photon calcium imaging
+  of mice piriform cortex under passive odor presentation (Version draft) [Data set].
+  DANDI archive. https://dandiarchive.org/dandiset/000167/draft
 contributor:
 - affiliation: []
   email: simon_daste@brown.edu
@@ -57,6 +57,16 @@ contributor:
   roleName:
   - dcite:Software
   - dcite:ContactPerson
+  - dcite:Maintainer
+  schemaKey: Person
+- affiliation: []
+  email: tuanhpham@brown.edu
+  includeInCitation: true
+  name: Pham, Tuan
+  roleName:
+  - dcite:ContactPerson
+  - dcite:Maintainer
+  - dcite:Software
   schemaKey: Person
 dateCreated: '2021-11-10T22:38:18.542708+00:00'
 description: 'Two-photon calcium imaging of mouse piriform cortex pyramidal population,
