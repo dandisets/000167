@@ -17,18 +17,25 @@ assetsSummary:
   measurementTechnique:
   - name: analytical technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 975789016
-  numberOfFiles: 5
+  - name: surgical technique
+    schemaKey: MeasurementTechniqueType
+  numberOfBytes: 1411348865
+  numberOfFiles: 7
   numberOfSubjects: 5
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10090
     name: House mouse
     schemaKey: SpeciesType
+  - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10090
+    name: Mus musculus - House mouse
+    schemaKey: SpeciesType
   variableMeasured:
   - PlaneSegmentation
   - ProcessingModule
-citation: Daste, Simon; Pierré, Andrea (2022) Two photon calcium imaging of mice piriform
+  - ImagingPlane
+  - OpticalChannel
+citation: Daste, Simon; Pierré, Andrea (2023) Two photon calcium imaging of mice piriform
   cortex under passive odor presentation (Version draft) [Data set]. DANDI archive.
   https://dandiarchive.org/dandiset/000167/draft
 contributor:
@@ -44,6 +51,7 @@ contributor:
   schemaKey: Person
 - affiliation: []
   email: andrea_pierre@brown.edu
+  identifier: 0000-0003-4501-5428
   includeInCitation: true
   name: Pierré, Andrea
   roleName:
