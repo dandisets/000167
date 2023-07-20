@@ -66,6 +66,7 @@ contributor:
   - dcite:Software
   schemaKey: Person
 dateCreated: '2021-11-10T22:38:18.542708+00:00'
+datePublished: '2023-07-20T20:01:31.157812+00:00'
 description: 'Two-photon calcium imaging of mouse piriform cortex pyramidal population,
   under head-fixed condition and passive odor stimulus delivery. There were 10 different
   odors used (8 trials each), delivered at 10-second for each of the 30-second trial.
@@ -81,6 +82,18 @@ manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000167/versions/draft/assets/
 name: Two photon calcium imaging of mice piriform cortex under passive odor presentation
 protocol: []
+publishedBy:
+  endDate: '2023-07-20T20:01:31.157812+00:00'
+  id: urn:uuid:a5a6691c-2f79-4c19-9ee1-081f9e2fb29f
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2023-07-20T20:01:31.157812+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:36ba342b-2860-4aed-80ee-1999d2f1e82b
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
